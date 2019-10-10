@@ -1,4 +1,4 @@
-page 50040 "AB_Item API"
+page 50140 "AB_Item API"
 {
     Caption = 'items', Locked = true;
     ChangeTrackingAllowed = true;
