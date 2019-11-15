@@ -33,6 +33,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field Receive Date - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 648023731 - Field 1475490283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field Sales Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 648023731 - Field 4203962329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External partner sent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field External partner sent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 648023731 - Field 1202017212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field Sent date - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 4223641356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Box line</source>
           <note from="Developer" annotates="general" priority="2"></note>

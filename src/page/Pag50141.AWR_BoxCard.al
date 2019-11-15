@@ -16,6 +16,10 @@ page 50141 "AWR_Box Card"
                 {
                     ApplicationArea = All;
                 }
+                field("Sales Order No."; "Sales Order No.")
+                {
+                    ApplicationArea = All;
+                }
                 field("Shipment Date"; "Shipment Date")
                 {
                     ApplicationArea = All;

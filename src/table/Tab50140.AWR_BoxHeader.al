@@ -31,6 +31,24 @@ table 50140 "AWR_Box Header"
             Caption = 'Receive Date';
             DataClassification = CustomerContent;
         }
+        field(7; "Sales Order No."; Code[20])
+        {
+            DataClassification = CustomerContent;
+            Caption = 'Sales Order No.';
+            TableRelation = "Sales Header"."No." where("Document Type" = filter(Order));
+        }
+        field(8; "External partner sent"; Boolean)
+        {
+            Caption = 'External partner sent';
+            DataClassification = CustomerContent;
+        }
+        field(9; "Sent date"; Date)
+        {
+            Caption = 'Sent date';
+            DataClassification = CustomerContent;
+        }
+
+
     }
     keys
     {
