@@ -9,7 +9,7 @@
   "EULA": "",
   "help": "",
   "url": "",
-  "logo": "Directions.jpg",
+  "logo": "",
   "features": ["TranslationFile"],
   "dependencies": [
     {
@@ -33,7 +33,6 @@
       "to": 50149
     }
   ],
-  "contextSensitiveHelpUrl": "https://OwnAPI.com/help/",
   "showMyCode": true,
   "runtime": "4.0"
 }

@@ -3,35 +3,90 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="OwnAPI">
     <body>
       <group id="body">
-        <trans-unit id="Page 473229299 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve">
-          <source>items</source>
+        <trans-unit id="Table 648023731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box Header</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AB_Item API - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 473229299 - Control 2686962215 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve">
-          <source>Id</source>
+        <trans-unit id="Table 648023731 - Field 2989159974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AB_Item API - Control id - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field Box No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 473229299 - Control 2757394829 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve">
-          <source>Number</source>
+        <trans-unit id="Table 648023731 - Field 3617311666 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box Ready</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AB_Item API - Control number - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field Box Ready - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 473229299 - Control 460507951 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve">
-          <source>DisplayName</source>
+        <trans-unit id="Table 648023731 - Field 545346504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivered</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AB_Item API - Control displayName - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field Delivered - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 473229299 - Control 460507951 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the Description for the Item.</source>
+        <trans-unit id="Table 648023731 - Field 4112852368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AB_Item API - Control displayName - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field Shipment Date - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 473229299 - Control 1463933576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>picture</source>
+        <trans-unit id="Table 648023731 - Field 577284569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receive Date</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AB_Item API - Control picture - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box Header - Field Receive Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223641356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223641356 - Field 2989159974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box line - Field Box No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223641356 - Field 3799293928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box line - Field Box Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223641356 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223641356 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box line - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4223641356 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AWR_Box line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2984463053 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AWR_Box Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2495579134 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AWR_Box Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2421341688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AWR_Box List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2763259618 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve">
+          <source>Boxes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AWR_Box API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2763259618 - Control 199584092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>boxLines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AWR_Box API - Control boxLines - Property Caption</note>
         </trans-unit>
       </group>
     </body>
